@@ -18,7 +18,7 @@ description: "These are the things I think about." # This will show up in places
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "tactile"
+theme: "minima"
 
 rss: rss
 
